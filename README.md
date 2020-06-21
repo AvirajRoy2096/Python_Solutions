@@ -13,3 +13,6 @@ The following descriptions are present for the programs present below-
  
  5)Currency Convertor- Performs Currency conversion of 5 currencies to each other-  1)USD 2)SGD 3)YEN 4)INR 5)EUR
                        User enters the desired currency from above and performs conversion of the selected currency to others.
+
+6) IPL Mini Project - A data analysis has been done on a IPL dataset which contains various data from 2008-2018 wrt the tournament.
+                      Required visualizations and insights are provided inside.
