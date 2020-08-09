@@ -16,3 +16,4 @@ The following descriptions are present for the programs present below-
 
 6) IPL Mini Project - A data analysis has been done on a IPL dataset which contains various data from 2008-2018 wrt the tournament.
                       Required visualizations and insights are provided inside.
+7) Timer Code-Shows timer output in Python
